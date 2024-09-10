@@ -5,11 +5,18 @@
 |:---|---:|
 |google/gemma-2-9b-it|94.38|
 
+|Parameter|Value|
+|---|---|
+|epoch|3|
+|rank|32|
+|alpha|64|
+|lr|2e-4|
+|dropout|0.01|
+
 총 62개 팀 중 19위를 기록하였습니다.
 
 <img width="933" alt="image" src="https://github.com/user-attachments/assets/c23224b2-5bd3-4eca-bc4b-c4064ed85947">
 
-최종 점수는 epoch=3, r=32, alpha=64, lr=2e-4, dropout=0.01로 qlora 파인튜닝하여 기록하였습니다.
 
 ## 리포지토리 구조 (Repository Structure)
 ```
