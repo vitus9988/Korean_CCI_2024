@@ -3,7 +3,7 @@
 
 |Model|Accuracy(%)|
 |:---|---:|
-|google/gemma-2-9b-it|94.38|
+|google/gemma-2-9b-it (Qlora)|94.38|
 
 |Parameter|Value|
 |---|---|
